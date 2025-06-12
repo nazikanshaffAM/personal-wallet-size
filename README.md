@@ -15,7 +15,7 @@ A simple personal finance tracking application built in Python using lists, JSON
 
 ##Clone the repo:
 
--git clone https://github.com/yourusername/repo-name.git
+-git clone https://github.com/nazikanshaffAM/repo-name.git
 -cd repo-name
 - run script> finance_tracker.py
 
